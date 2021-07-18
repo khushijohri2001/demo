@@ -1,1 +1,0 @@
-Hi, my name is Khushi Johri. I'm learning Git and GitHub.
